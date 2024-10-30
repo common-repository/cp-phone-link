@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CP Phone Link\n"
+"POT-Creation-Date: 2018-11-28 12:06+0100\n"
+"PO-Revision-Date: 2018-11-28 12:06+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ecpm-cpl.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ecpm-cpl.php:279
+msgid "Settings saved."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: ecpm-cpl.php:294
+msgid "CP Phone Link"
+msgstr ""
+
+#: ecpm-cpl.php:305
+msgid "Phone field"
+msgstr ""
+
+#: ecpm-cpl.php:310
+msgid "-- Disable --"
+msgstr ""
+
+#: ecpm-cpl.php:322
+msgid "Select a field for phone number"
+msgstr ""
+
+#: ecpm-cpl.php:327
+msgid "Phone icon"
+msgstr ""
+
+#: ecpm-cpl.php:331
+msgid "No icon"
+msgstr ""
+
+#: ecpm-cpl.php:351
+msgid "Select an icon to show"
+msgstr ""
+
+#: ecpm-cpl.php:357
+msgid "Icon size"
+msgstr ""
+
+#: ecpm-cpl.php:368
+msgid "Specify phone icon size"
+msgstr ""
+
+#: ecpm-cpl.php:374
+msgid "Icon transparency"
+msgstr ""
+
+#: ecpm-cpl.php:380
+msgid "Set transparency of phone icon"
+msgstr ""
+
+#: ecpm-cpl.php:386
+msgid "Icon horizontal position"
+msgstr ""
+
+#: ecpm-cpl.php:389 ecpm-cpl.php:408 ecpm-cpl.php:433
+msgid "Left"
+msgstr ""
+
+#: ecpm-cpl.php:391 ecpm-cpl.php:406 ecpm-cpl.php:434
+msgid "Right"
+msgstr ""
+
+#: ecpm-cpl.php:394
+msgid "Where to show the phone icon"
+msgstr ""
+
+#: ecpm-cpl.php:400
+msgid "Icon margin"
+msgstr ""
+
+#: ecpm-cpl.php:405
+msgid "Top"
+msgstr ""
+
+#: ecpm-cpl.php:407
+msgid "Bottom"
+msgstr ""
+
+#: ecpm-cpl.php:422
+msgid "Margin in pixels around the icon"
+msgstr ""
+
+#: ecpm-cpl.php:428
+msgid "Icon padding"
+msgstr ""
+
+#: ecpm-cpl.php:443
+msgid "Empty space on left and right size of icon"
+msgstr ""
+
+#: ecpm-cpl.php:452
+msgid "Click to show phone number"
+msgstr ""
+
+#: ecpm-cpl.php:455
+msgid "Would you like to hide phone number until user clicks on text?"
+msgstr ""
+
+#: ecpm-cpl.php:460 ecpm-cpl.php:500
+msgid "Enable on desktop"
+msgstr ""
+
+#: ecpm-cpl.php:468 ecpm-cpl.php:508
+msgid "Enable on mobile"
+msgstr ""
+
+#: ecpm-cpl.php:477
+msgid "Hidden number text"
+msgstr ""
+
+#: ecpm-cpl.php:481
+msgid "Text to show instead of phone number"
+msgstr ""
+
+#: ecpm-cpl.php:490
+msgid "Create link on phone number"
+msgstr ""
+
+#: ecpm-cpl.php:494
+msgid "Phone number will get tel:// link so user can click and dial"
+msgstr ""
+
+#: ecpm-cpl.php:518
+msgid "Tooltip text"
+msgstr ""
+
+#: ecpm-cpl.php:522
+msgid "Text to show when mouse over phone icon"
+msgstr ""
+
+#: ecpm-cpl.php:529
+msgid "Save settings"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.easycpmods.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"CP Phone Link is a lightweight plugin that will add a link on user's phone "
+"number for the field you specify. Requires Classipress theme to be installed."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "EasyCPMods"
+msgstr ""
